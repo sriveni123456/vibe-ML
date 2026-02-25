@@ -1,0 +1,26 @@
+# ═══ Vibe ML .gitignore ═══
+
+# Environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Storage (user data — never commit)
+storage/uploads/
+storage/outputs/
+storage/models/
+storage/*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
