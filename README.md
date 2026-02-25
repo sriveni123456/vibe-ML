@@ -237,7 +237,3 @@ vibeml/
 - [ ] **Monthly cron** to reset pipelines_this_month counter
 - [ ] **File cleanup cron** to delete old session data
 - [ ] **Celery/background tasks** for large dataset training
-
-## License
-
-MIT — Use it however you want. Code is yours.
